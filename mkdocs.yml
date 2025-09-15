@@ -1,4 +1,4 @@
-site_name:
+site_name: "my-cool-project"
 site_description:
 site_url: https://my-cool-project.readthedocs.io
 edit_uri: blob/master/docs/
