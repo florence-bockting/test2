@@ -10,7 +10,7 @@ from __future__ import annotations
 
 def add_two(a: float, b: float) -> float:
     """
-    Add two numbers
+    Sum two numbers
 
     Parameters
     ----------
