@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.14.4-2-g8f7a75e
+_src_path: .
+conda_release: false
+email: ''
+include_cli: false
+name: ''
+notebook_based_docs: false
+package_manager: uv
+pandas_doctests: false
+plot_dependencies: true
+project_description_short: ''
+project_name_human: ''
+project_name_pip: my-cool-project
+project_name_python: my_cool_project
+project_url: https://github.com/
+track_lock_file: true
