@@ -4,7 +4,7 @@ _src_path: .
 conda_release: false
 email: ''
 include_cli: false
-name: ''
+name: Florence Bockting
 notebook_based_docs: false
 package_manager: uv
 pandas_doctests: false
@@ -13,5 +13,5 @@ project_description_short: ''
 project_name_human: ''
 project_name_pip: my-cool-project
 project_name_python: my_cool_project
-project_url: https://github.com/
+project_url: https://github.com/florence-bockting/test
 track_lock_file: true

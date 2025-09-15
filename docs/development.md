@@ -56,14 +56,14 @@ See the `uv version` docs (specifically the `--bump` flag) for the
 The steps required are the following:
 
 1. Bump the version: manually trigger the "bump" workflow from the main branch
-   (see here: [bump workflow](https://github.com//actions/workflows/bump.yaml)).
+   (see here: [bump workflow](https://github.com/florence-bockting/test/actions/workflows/bump.yaml)).
    A valid "bump_rule" (see [uv's docs](https://docs.astral.sh/uv/reference/cli/#uv-version))
    will need to be specified.
    This will then trigger a draft release.
 
 1. Edit the draft release which has been created
    (see here:
-   [project releases](https://github.com//releases)).
+   [project releases](https://github.com/florence-bockting/test/releases)).
    Once you are happy with the release
    (removed placeholders, added key announcements etc.)
    then hit 'Publish release'.

@@ -3,7 +3,7 @@ name = "my-cool-project"
 version = "0.1.0a1"
 description = ""
 authors = [
-    { name = "", email = "" },
+    { name = "Florence Bockting", email = "" },
 ]
 license = { text = "placeholder" }
 requires-python = ">=3.9"
@@ -33,8 +33,8 @@ classifiers = [
 Homepage = "https://my-cool-project.readthedocs.io"
 Documentation = "https://my-cool-project.readthedocs.io"
 Changelog = "https://my-cool-project.readthedocs.io/en/stable/changelog"
-Repository = "https://github.com"
-Issues = "https://github.com/issues"
+Repository = "https://github.com/florence-bockting/test"
+Issues = "https://github.com/florence-bockting/test/issues"
 
 
 [project.optional-dependencies]
@@ -281,7 +281,7 @@ underlines = [
     "",
     "",
 ]
-issue_format = "[#{issue}](https://github.com/pull/{issue})"
+issue_format = "[#{issue}](https://github.com/florence-bockting/test/pull/{issue})"
 type = [
     { directory = "breaking", name = "⚠️ Breaking Changes", showcontent = true },
     { directory = "deprecation", name = "🗑️ Deprecations", showcontent = true },

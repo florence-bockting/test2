@@ -1,24 +1,24 @@
 <!--- --8<-- [start:description] -->
-# 
+#
 
 
 
 **Key info :**
 [![Docs](https://readthedocs.org/projects/my-cool-project/badge/?version=latest)](https://my-cool-project.readthedocs.io)
-[![Main branch: supported Python versions](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2F%2F%2Fmain%2Fpyproject.toml)](https://github.com///blob/main/pyproject.toml)
-[![Licence](https://img.shields.io/pypi/l/my-cool-project?label=licence)](https://github.com///blob/main/LICENCE)
+[![Main branch: supported Python versions](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fflorence-bockting%2Ftest%2Fmain%2Fpyproject.toml)](https://github.com/florence-bockting/test/blob/main/pyproject.toml)
+[![Licence](https://img.shields.io/pypi/l/my-cool-project?label=licence)](https://github.com/florence-bockting/test/blob/main/LICENCE)
 
 **PyPI :**
 [![PyPI](https://img.shields.io/pypi/v/my-cool-project.svg)](https://pypi.org/project/my-cool-project/)
-[![PyPI install](https://github.com///actions/workflows/install-pypi.yaml/badge.svg?branch=main)](https://github.com///actions/workflows/install-pypi.yaml)
+[![PyPI install](https://github.com/florence-bockting/test/actions/workflows/install-pypi.yaml/badge.svg?branch=main)](https://github.com/florence-bockting/test/actions/workflows/install-pypi.yaml)
 
 **Tests :**
-[![CI](https://github.com///actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com///actions/workflows/ci.yaml)
-[![Coverage](https://codecov.io/gh///branch/main/graph/badge.svg)](https://codecov.io/gh//)
+[![CI](https://github.com/florence-bockting/test/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/florence-bockting/test/actions/workflows/ci.yaml)
+[![Coverage](https://codecov.io/gh/florence-bockting/test/branch/main/graph/badge.svg)](https://codecov.io/gh/florence-bockting/test)
 
 **Other info :**
-[![Last Commit](https://img.shields.io/github/last-commit//.svg)](https://github.com///commits/main)
-[![Contributors](https://img.shields.io/github/contributors//.svg)](https://github.com///graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/florence-bockting/test.svg)](https://github.com/florence-bockting/test/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/florence-bockting/test.svg)](https://github.com/florence-bockting/test/graphs/contributors)
 ## Status
 
 <!---
@@ -80,7 +80,7 @@ incompatible versions of 's dependencies
 particularly ones which haven't been released yet!).
 Hence, you may run into installation issues.
 If you believe these are because of a problem in ,
-please [raise an issue](https://github.com/issues).
+please [raise an issue](https://github.com/florence-bockting/test/issues).
 
 The (non-locked) version of  can be installed with
 
@@ -116,7 +116,7 @@ In order to create your environment, run `make virtual-environment`.
 
 If there are any issues, the messages from the `Makefile` should guide you through.
 If not, please raise an issue in the
-[issue tracker](https://github.com/issues).
+[issue tracker](https://github.com/florence-bockting/test/issues).
 
 For the rest of our developer docs, please see [development][development].
 

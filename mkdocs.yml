@@ -1,10 +1,10 @@
-site_name: 
-site_description: 
+site_name:
+site_description:
 site_url: https://my-cool-project.readthedocs.io
 edit_uri: blob/master/docs/
 
-repo_name: github.com/
-repo_url: https://github.com/
+repo_name: florence-bockting/test
+repo_url: https://github.com/florence-bockting/test
 
 theme:
   name: "material"
