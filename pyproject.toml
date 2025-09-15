@@ -40,6 +40,7 @@ Issues = "https://github.com/florence-bockting/test/issues"
 [project.optional-dependencies]
 plots = [
     "matplotlib>=3.7.1",
+    "numpy"
 ]
 full = [
     "my-cool-project[plots]",
